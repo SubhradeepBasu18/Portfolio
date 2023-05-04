@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Cormorant+Garamond:wght@300&family=Montserrat:wght@500&family=Open+Sans:ital,wght@0,500;1,300&family=Roboto+Slab:wght@300;400&display=swap');
+.infobar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 29px;
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.info{
+    position: relative;
+    top: 207px;
+    left: 60px;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+.name{
+    position: relative;
+    font-size: 33px;
+    top: 168px;
+    left: 130px;
+    right: 0px;
+    font-family: 'Caveat', cursive;
+}
+.about{
+    position: relative;
+    top: 271px;
+    font-size: 22px;
+}
+.details{
+    position: relative;
+    top: 297px;
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.College,.School{
+    font-family: 'Roboto Slab', serif;
+    position: relative;
+    left:64px;
+}
+.year{
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+    left:64px;
+}
+#college_logo{
+    position: relative;
+    top: 54px;
+}
+
+.stream{
+    position: relative;
+    left:64px;
+}
+#school_logo{
+    position: relative;
+    top: 54px;
+}
+.container,.container1{
+    color: antiquewhite;
+}
+body{
+    background-image: url('red-black-texture-beautiful-wallpaper-preview.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
